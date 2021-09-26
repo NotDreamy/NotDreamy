@@ -10,7 +10,7 @@
 - 🌱 I’m currently learning **Ethical Hacking, Wordpress Developing.**
 
 
-- 👨‍💻 Im working on **iamsil.nl & dreamyy.nl**
+- 👨‍💻 Im working on **dreamyy.nl**
 
 - 📫 How to reach me **email@dreamyy.nl**
 
