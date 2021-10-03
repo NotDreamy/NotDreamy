@@ -7,10 +7,10 @@
 ## 🙋‍♂️ About Me
 
 
-- 🌱 I’m currently learning **Ethical Hacking, Wordpress Developing.**
+- 🌱 I’m currently learning **Ethical Hacking**
 
 
-- 👨‍💻 Im working on **dreamyy.nl**
+- 👨‍💻 Im working on **Dont have any project rn**
 
 - 📫 How to reach me **email@dreamyy.nl**
 
