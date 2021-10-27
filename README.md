@@ -7,7 +7,7 @@
 ## 🙋‍♂️ About Me
 
 
-- 🌱 I’m currently learning **Ethical Hacking & Python.**
+- 🌱 I’m currently learning **Ethical Hacking.**
 
 
 - 👨‍💻 Im working on **Dont have any project rn**
